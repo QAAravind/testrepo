@@ -1,5 +1,5 @@
-a = 5
-b = 15
+a = 50
+b = 25
 
 value = a+b
 print(value)
