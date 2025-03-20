@@ -1,5 +1,5 @@
 a = 40
 b = 10
 
-value = a-b
+value = a*b
 print(value)
